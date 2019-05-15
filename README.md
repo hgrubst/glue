@@ -4,6 +4,8 @@
 
 [![Build Status](https://travis-ci.org/hapijs/glue.svg)](https://travis-ci.org/hapijs/glue)
 
+#### NB : This fork supports providing additional options when specifying the server cache as an object instead of a string. See [this issue](https://github.com/hapijs/glue/issues/128) for more details.
+
 ### A server composer for hapi.js.
 
 Glue provides configuration based composition of hapi's Server object. Specifically it wraps
